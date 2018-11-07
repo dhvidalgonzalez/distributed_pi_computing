@@ -1,0 +1,4 @@
+Flask==0.12.2
+cloudant==2.4.0
+dropbox==9.1.0
+multiprocess==0.70.6.1
